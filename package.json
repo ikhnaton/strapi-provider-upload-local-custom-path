@@ -36,5 +36,9 @@
   "strapi": {
     "isProvider": true
   },
-  "version": "1.0.5"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikhnaton/strapi-provider-upload-local-custom-path"
+  },
+  "version": "1.0.6"
 }
