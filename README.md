@@ -2,7 +2,7 @@
 
 ## Configurations
 
-This provider has only one parameter: `sizeLimit`.
+This provider has two parameters: `path` and `sizeLimit`.
 
 **Example**
 
